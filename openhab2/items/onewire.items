@@ -1,0 +1,3 @@
+String onewiretemp1Value "Temp 1 is [%s °F]" {channel="exec:command:onewiretemp1:output"}
+String onewiretemp2Value "Temp 2 is [%s °F]" {channel="exec:command:onewiretemp2:output"}
+

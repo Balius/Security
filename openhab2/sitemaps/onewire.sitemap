@@ -1,0 +1,7 @@
+me label="Environment" {
+Text label=”Temperatures” icon=”temperature_hot” {
+Text item=onewiretemp1Value
+Text item=onewiretemp2Value
+}
+
+

@@ -1,0 +1,3 @@
+exec:command:onewiretemp1 [command="bash /etc/openhab2/scripts/onewiretemp.sh 28-0316458ebeff"]
+exec:command:onewiretemp2 [command="bash /etc/openhab2/scripts/onewiretemp.sh 28-031645e621ff"]
+
